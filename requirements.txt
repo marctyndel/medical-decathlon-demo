@@ -67,7 +67,7 @@ wcwidth==0.1.7
 webencodings==0.5.1
 Werkzeug==0.15.5
 widgetsnbextension==3.5.1
-tensorflow-gpu==1.14
+tensorflow-gpu==2.5.3
 wheel
 request
 dill==0.2.8.2
